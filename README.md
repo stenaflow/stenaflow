@@ -5,8 +5,8 @@
 ## About me
 - 🎓 Bachelor's degree in Computer Engineering @unipd
 - 🎓 Master's degree in Telecommunications Engineering @unipd
-- 👨‍💻 PhD Student @ [santanna](https://www.santannapisa.it)
-- 🎯 Main interests: AI safety and security, cybersecurity, software engineering
+- 👨‍💻 Currently researching in the world of privacy and security in AI @ [santanna](https://www.santannapisa.it)
+- 🎯 Main interests: information security, deep learning, software engineering, pizza
 
 
 ## My GitHub stats
